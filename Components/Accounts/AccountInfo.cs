@@ -2,7 +2,7 @@
 {
     public class AccountInfo
     {
-        public long Id { get; }
+        public long Id { get; } 
         public long OwnerId { get; }
         public string Name { get; }
         public string Info { get; }
