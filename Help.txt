@@ -1,1 +1,2 @@
 cf marketplace -s <ServiceName> # To see available service plans
+choco install dotnetcore-sdk --version 2.1.402 -f
