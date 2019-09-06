@@ -1,0 +1,1 @@
+cf marketplace -s <ServiceName> # To see available service plans
